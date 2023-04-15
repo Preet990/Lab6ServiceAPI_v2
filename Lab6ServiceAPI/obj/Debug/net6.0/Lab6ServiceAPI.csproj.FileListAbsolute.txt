@@ -1,0 +1,49 @@
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6ServiceAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6ServiceAPI\bin\Debug\net6.0\appsettings.json
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6ServiceAPI\bin\Debug\net6.0\Lab6ServiceAPI.exe
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6ServiceAPI\bin\Debug\net6.0\Data\restaurant_review.xml
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6ServiceAPI\bin\Debug\net6.0\Lab6ServiceAPI.deps.json
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6ServiceAPI\bin\Debug\net6.0\Lab6ServiceAPI.runtimeconfig.json
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6ServiceAPI\bin\Debug\net6.0\Lab6ServiceAPI.dll
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6ServiceAPI\bin\Debug\net6.0\Lab6ServiceAPI.pdb
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6ServiceAPI\obj\Debug\net6.0\Lab6ServiceAPI.csproj.AssemblyReference.cache
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6ServiceAPI\obj\Debug\net6.0\Lab6ServiceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6ServiceAPI\obj\Debug\net6.0\Lab6ServiceAPI.AssemblyInfoInputs.cache
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6ServiceAPI\obj\Debug\net6.0\Lab6ServiceAPI.AssemblyInfo.cs
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6ServiceAPI\obj\Debug\net6.0\Lab6ServiceAPI.csproj.CoreCompileInputs.cache
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6ServiceAPI\obj\Debug\net6.0\Lab6ServiceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6ServiceAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6ServiceAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6ServiceAPI\obj\Debug\net6.0\scopedcss\bundle\Lab6ServiceAPI.styles.css
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6ServiceAPI\obj\Debug\net6.0\Lab6ServiceAPI.dll
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6ServiceAPI\obj\Debug\net6.0\refint\Lab6ServiceAPI.dll
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6ServiceAPI\obj\Debug\net6.0\Lab6ServiceAPI.pdb
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6ServiceAPI\obj\Debug\net6.0\Lab6ServiceAPI.genruntimeconfig.cache
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6ServiceAPI\obj\Debug\net6.0\ref\Lab6ServiceAPI.dll
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\bin\Debug\net6.0\Lab6ServiceAPI.exe
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\bin\Debug\net6.0\Data\restaurant_review.xml
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\bin\Debug\net6.0\Lab6ServiceAPI.deps.json
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\bin\Debug\net6.0\Lab6ServiceAPI.runtimeconfig.json
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\bin\Debug\net6.0\Lab6ServiceAPI.dll
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\bin\Debug\net6.0\Lab6ServiceAPI.pdb
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\obj\Debug\net6.0\Lab6ServiceAPI.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\obj\Debug\net6.0\Lab6ServiceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\obj\Debug\net6.0\Lab6ServiceAPI.AssemblyInfoInputs.cache
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\obj\Debug\net6.0\Lab6ServiceAPI.AssemblyInfo.cs
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\obj\Debug\net6.0\Lab6ServiceAPI.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\obj\Debug\net6.0\Lab6ServiceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\obj\Debug\net6.0\staticwebassets\msbuild.Lab6ServiceAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.Lab6ServiceAPI.props
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lab6ServiceAPI.props
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lab6ServiceAPI.props
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\obj\Debug\net6.0\scopedcss\bundle\Lab6ServiceAPI.styles.css
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\obj\Debug\net6.0\Lab6ServiceAPI.dll
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\obj\Debug\net6.0\refint\Lab6ServiceAPI.dll
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\obj\Debug\net6.0\Lab6ServiceAPI.pdb
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\obj\Debug\net6.0\Lab6ServiceAPI.genruntimeconfig.cache
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6ServiceAPI\obj\Debug\net6.0\ref\Lab6ServiceAPI.dll

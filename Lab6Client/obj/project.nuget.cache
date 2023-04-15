@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8u6Y+AgEAetCm2MXAWsTR5jv5z3ts7nkiDq2qv8Fq3oruqOsWl274bNp5Fhc1SftlXZhbo7zHf/6y5SKapGQnA==",
+  "success": true,
+  "projectFilePath": "/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6Client/Lab6Client.csproj",
+  "expectedPackageFiles": [
+    "/Users/preetchangani/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{1CFC28DF-8281-4174-8BFD-9DFF02A37E16}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Model/RestaurantInfo.cs" Line="1" Column="1" />
+      <File FileName="Model/restaurant_review.cs" Line="1" Column="1" />
+      <File FileName="Data/restaurant_review.xml" Line="1" Column="1" />
+      <File FileName="Data/restaurant_review.xsd" Line="1" Column="1" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Controllers/RestaurantReviewController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab6ServiceAPI" expanded="True">
+            <Node name="NuGet.Config files" expanded="True" />
+            <Node name="Lab6ServiceAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="RestaurantReviewController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="PublishProfiles" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.Lab6ServiceAPI PreferredExecutionTarget="/Applications/Brave Browser.app" />
+</Properties>

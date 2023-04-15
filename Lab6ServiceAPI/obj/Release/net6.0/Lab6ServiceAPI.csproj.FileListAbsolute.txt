@@ -1,0 +1,49 @@
+C:/OneD/OneDrive/Alg/23W/CST8259/Week 9 - 10/Lab6 - Complete/Lab6ServiceAPI/bin/Release/net6.0/appsettings.Development.json
+C:/OneD/OneDrive/Alg/23W/CST8259/Week 9 - 10/Lab6 - Complete/Lab6ServiceAPI/bin/Release/net6.0/appsettings.json
+C:/OneD/OneDrive/Alg/23W/CST8259/Week 9 - 10/Lab6 - Complete/Lab6ServiceAPI/bin/Release/net6.0/Lab6ServiceAPI.exe
+C:/OneD/OneDrive/Alg/23W/CST8259/Week 9 - 10/Lab6 - Complete/Lab6ServiceAPI/bin/Release/net6.0/Data/restaurant_review.xml
+C:/OneD/OneDrive/Alg/23W/CST8259/Week 9 - 10/Lab6 - Complete/Lab6ServiceAPI/bin/Release/net6.0/Lab6ServiceAPI.deps.json
+C:/OneD/OneDrive/Alg/23W/CST8259/Week 9 - 10/Lab6 - Complete/Lab6ServiceAPI/bin/Release/net6.0/Lab6ServiceAPI.runtimeconfig.json
+C:/OneD/OneDrive/Alg/23W/CST8259/Week 9 - 10/Lab6 - Complete/Lab6ServiceAPI/bin/Release/net6.0/Lab6ServiceAPI.dll
+C:/OneD/OneDrive/Alg/23W/CST8259/Week 9 - 10/Lab6 - Complete/Lab6ServiceAPI/bin/Release/net6.0/Lab6ServiceAPI.pdb
+C:/OneD/OneDrive/Alg/23W/CST8259/Week 9 - 10/Lab6 - Complete/Lab6ServiceAPI/obj/Release/net6.0/Lab6ServiceAPI.csproj.AssemblyReference.cache
+C:/OneD/OneDrive/Alg/23W/CST8259/Week 9 - 10/Lab6 - Complete/Lab6ServiceAPI/obj/Release/net6.0/Lab6ServiceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/OneD/OneDrive/Alg/23W/CST8259/Week 9 - 10/Lab6 - Complete/Lab6ServiceAPI/obj/Release/net6.0/Lab6ServiceAPI.AssemblyInfoInputs.cache
+C:/OneD/OneDrive/Alg/23W/CST8259/Week 9 - 10/Lab6 - Complete/Lab6ServiceAPI/obj/Release/net6.0/Lab6ServiceAPI.AssemblyInfo.cs
+C:/OneD/OneDrive/Alg/23W/CST8259/Week 9 - 10/Lab6 - Complete/Lab6ServiceAPI/obj/Release/net6.0/Lab6ServiceAPI.csproj.CoreCompileInputs.cache
+C:/OneD/OneDrive/Alg/23W/CST8259/Week 9 - 10/Lab6 - Complete/Lab6ServiceAPI/obj/Release/net6.0/Lab6ServiceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/OneD/OneDrive/Alg/23W/CST8259/Week 9 - 10/Lab6 - Complete/Lab6ServiceAPI/obj/Release/net6.0/staticwebassets.build.json
+C:/OneD/OneDrive/Alg/23W/CST8259/Week 9 - 10/Lab6 - Complete/Lab6ServiceAPI/obj/Release/net6.0/staticwebassets.development.json
+C:/OneD/OneDrive/Alg/23W/CST8259/Week 9 - 10/Lab6 - Complete/Lab6ServiceAPI/obj/Release/net6.0/scopedcss/bundle/Lab6ServiceAPI.styles.css
+C:/OneD/OneDrive/Alg/23W/CST8259/Week 9 - 10/Lab6 - Complete/Lab6ServiceAPI/obj/Release/net6.0/Lab6ServiceAPI.dll
+C:/OneD/OneDrive/Alg/23W/CST8259/Week 9 - 10/Lab6 - Complete/Lab6ServiceAPI/obj/Release/net6.0/refint/Lab6ServiceAPI.dll
+C:/OneD/OneDrive/Alg/23W/CST8259/Week 9 - 10/Lab6 - Complete/Lab6ServiceAPI/obj/Release/net6.0/Lab6ServiceAPI.pdb
+C:/OneD/OneDrive/Alg/23W/CST8259/Week 9 - 10/Lab6 - Complete/Lab6ServiceAPI/obj/Release/net6.0/Lab6ServiceAPI.genruntimeconfig.cache
+C:/OneD/OneDrive/Alg/23W/CST8259/Week 9 - 10/Lab6 - Complete/Lab6ServiceAPI/obj/Release/net6.0/ref/Lab6ServiceAPI.dll
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/bin/Release/net6.0/appsettings.Development.json
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/bin/Release/net6.0/appsettings.json
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/bin/Release/net6.0/Lab6ServiceAPI
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/bin/Release/net6.0/Data/restaurant_review.xml
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/bin/Release/net6.0/Lab6ServiceAPI.deps.json
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/bin/Release/net6.0/Lab6ServiceAPI.runtimeconfig.json
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/bin/Release/net6.0/Lab6ServiceAPI.dll
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/bin/Release/net6.0/Lab6ServiceAPI.pdb
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/obj/Release/net6.0/Lab6ServiceAPI.csproj.AssemblyReference.cache
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/obj/Release/net6.0/Lab6ServiceAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/obj/Release/net6.0/Lab6ServiceAPI.AssemblyInfoInputs.cache
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/obj/Release/net6.0/Lab6ServiceAPI.AssemblyInfo.cs
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/obj/Release/net6.0/Lab6ServiceAPI.csproj.CoreCompileInputs.cache
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/obj/Release/net6.0/Lab6ServiceAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/obj/Release/net6.0/staticwebassets/msbuild.Lab6ServiceAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/obj/Release/net6.0/staticwebassets/msbuild.build.Lab6ServiceAPI.props
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/obj/Release/net6.0/staticwebassets/msbuild.buildMultiTargeting.Lab6ServiceAPI.props
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/obj/Release/net6.0/staticwebassets/msbuild.buildTransitive.Lab6ServiceAPI.props
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/obj/Release/net6.0/staticwebassets.pack.json
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/obj/Release/net6.0/staticwebassets.build.json
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/obj/Release/net6.0/staticwebassets.development.json
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/obj/Release/net6.0/scopedcss/bundle/Lab6ServiceAPI.styles.css
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/obj/Release/net6.0/Lab6ServiceAPI.dll
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/obj/Release/net6.0/refint/Lab6ServiceAPI.dll
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/obj/Release/net6.0/Lab6ServiceAPI.pdb
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/obj/Release/net6.0/Lab6ServiceAPI.genruntimeconfig.cache
+/Users/preetchangani/Downloads/Lab6ServiceAPI_v2/Lab6ServiceAPI/obj/Release/net6.0/ref/Lab6ServiceAPI.dll

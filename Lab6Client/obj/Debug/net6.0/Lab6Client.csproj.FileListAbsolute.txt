@@ -1,0 +1,59 @@
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\bin\Debug\net6.0\appsettings.Development.json
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\bin\Debug\net6.0\appsettings.json
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\bin\Debug\net6.0\Lab6Client.staticwebassets.runtime.json
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\bin\Debug\net6.0\Lab6Client.exe
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\bin\Debug\net6.0\Lab6Client.deps.json
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\bin\Debug\net6.0\Lab6Client.runtimeconfig.json
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\bin\Debug\net6.0\Lab6Client.dll
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\bin\Debug\net6.0\Lab6Client.pdb
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\obj\Debug\net6.0\Lab6Client.csproj.AssemblyReference.cache
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\obj\Debug\net6.0\Lab6Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\obj\Debug\net6.0\Lab6Client.AssemblyInfoInputs.cache
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\obj\Debug\net6.0\Lab6Client.AssemblyInfo.cs
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\obj\Debug\net6.0\Lab6Client.csproj.CoreCompileInputs.cache
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\obj\Debug\net6.0\Lab6Client.MvcApplicationPartsAssemblyInfo.cache
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\obj\Debug\net6.0\Lab6Client.RazorAssemblyInfo.cache
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\obj\Debug\net6.0\Lab6Client.RazorAssemblyInfo.cs
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\obj\Debug\net6.0\staticwebassets.build.json
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\obj\Debug\net6.0\staticwebassets.development.json
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\obj\Debug\net6.0\scopedcss\bundle\Lab6Client.styles.css
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\obj\Debug\net6.0\scopedcss\projectbundle\Lab6Client.bundle.scp.css
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\obj\Debug\net6.0\Lab6Client.dll
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\obj\Debug\net6.0\refint\Lab6Client.dll
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\obj\Debug\net6.0\Lab6Client.pdb
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\obj\Debug\net6.0\Lab6Client.genruntimeconfig.cache
+C:\OneD\OneDrive\Alg\23W\CST8259\Week 9 - 10\Lab6 - Complete\Lab6Client\obj\Debug\net6.0\ref\Lab6Client.dll
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\bin\Debug\net6.0\appsettings.json
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\bin\Debug\net6.0\Lab6Client.staticwebassets.runtime.json
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\bin\Debug\net6.0\Lab6Client.exe
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\bin\Debug\net6.0\Lab6Client.deps.json
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\bin\Debug\net6.0\Lab6Client.runtimeconfig.json
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\bin\Debug\net6.0\Lab6Client.dll
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\bin\Debug\net6.0\Lab6Client.pdb
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\obj\Debug\net6.0\Lab6Client.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\obj\Debug\net6.0\Lab6Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\obj\Debug\net6.0\Lab6Client.AssemblyInfoInputs.cache
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\obj\Debug\net6.0\Lab6Client.AssemblyInfo.cs
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\obj\Debug\net6.0\Lab6Client.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\obj\Debug\net6.0\Lab6Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\obj\Debug\net6.0\Lab6Client.RazorAssemblyInfo.cache
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\obj\Debug\net6.0\Lab6Client.RazorAssemblyInfo.cs
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\obj\Debug\net6.0\staticwebassets\msbuild.Lab6Client.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\obj\Debug\net6.0\staticwebassets\msbuild.build.Lab6Client.props
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lab6Client.props
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lab6Client.props
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\obj\Debug\net6.0\scopedcss\bundle\Lab6Client.styles.css
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\obj\Debug\net6.0\scopedcss\projectbundle\Lab6Client.bundle.scp.css
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\obj\Debug\net6.0\Lab6Client.dll
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\obj\Debug\net6.0\refint\Lab6Client.dll
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\obj\Debug\net6.0\Lab6Client.pdb
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\obj\Debug\net6.0\Lab6Client.genruntimeconfig.cache
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\obj\Debug\net6.0\ref\Lab6Client.dll
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\nguye\Downloads\Lab6\Lab6 - Partial Completed\Lab6Client\obj\Debug\net6.0\Lab6Client.csproj.CopyComplete
